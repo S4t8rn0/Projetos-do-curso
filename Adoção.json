@@ -1,0 +1,37 @@
+[
+	{
+		"Nome": "NoM",
+		"Idade": "Ie",
+		"Animal_de_interesse": "Es",
+		"Gênero": "GH",
+		"Nome_do_Animal": "No"
+	},
+	{
+		"Nome": "A",
+		"Idade": "I",
+		"Animal_de_interesse": "E",
+		"Gênero": "G",
+		"Nome_do_Animal": "N"
+	},
+	{
+		"Nome": "i",
+		"Idade": "i",
+		"Animal_de_interesse": "i",
+		"Gênero": "i",
+		"Nome_do_Animal": "i"
+	},
+	{
+		"Nome": "Jolia",
+		"Idade": "20",
+		"Animal_de_interesse": "Cachorro",
+		"Gênero": "fem",
+		"Nome_do_Animal": "Jhuly"
+	},
+	{
+		"Nome": "Gab",
+		"Idade": "f",
+		"Animal_de_interesse": "f",
+		"Gênero": "f",
+		"Nome_do_Animal": "f"
+	}
+]
